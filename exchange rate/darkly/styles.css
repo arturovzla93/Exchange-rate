@@ -1,0 +1,36 @@
+#money{
+    height: 180px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+body{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.currency select{
+    padding: 5px;
+    appearance: none;
+    border: 1px solid ;
+}
+
+.input{
+    background-color: aliceblue;
+}
+#rate{
+    background-color: rgb(5, 11, 94);
+    border-radius: 50px;
+
+}
+
