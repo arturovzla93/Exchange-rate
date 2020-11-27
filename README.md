@@ -1,2 +1,2 @@
 # Exchange-rate
-Basci ERxchange rate app
+Basic exchange rate app
